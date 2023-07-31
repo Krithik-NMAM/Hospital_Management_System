@@ -1,1 +1,1 @@
-# Hospital_Management_System
+The Hospital Management System project in C++ aims to create a secure login system for hospital staff, patients, and administrators. The project allows users to access different functionalities based on their roles. Hospital staff can fill patient details, view information about doctors, and manage appointments, while patients can book appointments with doctors and update their details. Additionally, users can change their passwords to maintain account security.
